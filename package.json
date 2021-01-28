@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/qiben-jy/Intelligent-source-term-estimation#readme",
   "devDependencies": {
-    "electron": "^9.1.2"
+    "electron": "^9.4.0"
   }
 }
